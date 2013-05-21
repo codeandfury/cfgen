@@ -1,0 +1,27 @@
+## MAC OS
+.DS_Store
+
+## Windows
+Thumbs.db
+
+## Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+## Ruby / Rails
+.env
+env
+.bundle
+db/*.sqlite3
+log/*.log
+log/parsed*
+tmp/
+.sass-cache/
+config/database.yml
+config/*.sphinx.conf
+.rsync_cache/
+log/searchd.*.pid
+public/system
+config/heroku_env.rb
+*.stamp
+spec/fixtures/vcr_cassettes/*
