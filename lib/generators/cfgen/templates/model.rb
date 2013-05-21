@@ -1,6 +1,6 @@
 # require 'path/file_name'
 
-class Template < ActiveRecord::Base
+class <%= file_name %> < ActiveRecord::Base
   # extend ModuleOne
   # include ModuleTwo
 

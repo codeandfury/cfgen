@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+rails g cfgen:model CamelCaseModelName
 
 ## Contributing
 

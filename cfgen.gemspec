@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'cfgen/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "cfge"
+  spec.name          = "cfgen"
   spec.version       = Cfgen::VERSION
   spec.authors       = ["Matthew Wurzberger"]
   spec.email         = ["mwurzberger@andculture.com"]
